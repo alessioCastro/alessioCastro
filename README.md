@@ -1,12 +1,12 @@
 # 👋 Hi, I'm @alessioCastro | Olá, sou @alessioCastro
 
-🎓 I'm currently studying **Software Engineering** at UNINTER.
+🎓 I'm currently studying **Software Engineering** at Uninter.
 🎮 I develop software and games focused on innovation, performance, and user experience.
 💡 Passionate about creating interactive experiences and solving real-world problems with code.
 
 ---
 
-🎓 Atualmente curso **Engenharia de Software** na UNINTER.
+🎓 Atualmente curso **Engenharia de Software** na Uninter.
 🎮 Desenvolvo softwares e jogos com foco em inovação, desempenho e experiência do usuário.
 💡 Apaixonado por criar experiências interativas e resolver problemas reais com código.
 
@@ -15,10 +15,10 @@
 ## 🚀 Technologies & Tools | Tecnologias & Ferramentas
 
 - 🧠 **Languages & Markup | Linguagens e Marcação:**
-  JavaScript ⚙️, Python 🐍, Lua 🌀, C# 🎯, Java ☕, HTML 🌐, CSS 🎨, JSON 📦
+  HTML 🌐, CSS 🎨, JavaScript ⚙️, Python 🐍, Lua 🌀, JSON 📦
 
 - 🛠️ **Technologies & Tools | Tecnologias e Ferramentas:**
-  Node.js 🌍
+  Node.js 🌍, Git
 
 - 🕹️ **Game Engines & Platforms | Motores e Plataformas de Jogo:**
   Roblox Studio 🎮
@@ -37,9 +37,9 @@
 
 ## 📫 Let's connect | Vamos conversar
 
-- GitHub: [@alessioCastro](https://github.com/alessioCastro)
+- GitHub: *@alessioCastro* (https://github.com/alessioCastro)
 - Email: *alessiopcastro@outlook.com*
-- LinkedIn: *[pendente]*
+- LinkedIn: *https://linkedin.com/in/aléssio-castro-b404072a7*
 
 ---
 
